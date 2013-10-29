@@ -73,7 +73,7 @@
 /* #Big Screen
 ================================================== */
 
-    /* Note: Design for a width of 1344px */
+    /* Note: Design for a width of 1384px */
 
     @media only screen and (min-width: 1384px) {
         .container                                  { width: 1344px; }
@@ -126,7 +126,7 @@
 /* #Tablet (Portrait)
 ================================================== */
 
-    /* Note: Design for a width of 768px */
+    /* Note: Design for a width of 770px */
 
     @media only screen and (min-width: 770px) and (max-width: 965px) {
         .container                                  { width: 768px; }
@@ -227,7 +227,7 @@
 
     /* Note: Design for a width of 480px */
 
-    @media only screen and (min-width: 480px) and (max-width: 767px) {
+    @media only screen and (min-width: 480px) and (max-width: 769px) {
         .container { width: 420px; }
         .columns, .column { margin: 0; }
 

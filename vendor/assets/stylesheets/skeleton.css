@@ -75,7 +75,7 @@
 
     /* Note: Design for a width of 1344px */
 
-    @media only screen and (min-width: 1344px) {
+    @media only screen and (min-width: 1368px) {
         .container                                  { width: 1344px; }
         .container .column,
         .container .columns                         { margin-left: 12px; margin-right: 12px; }
